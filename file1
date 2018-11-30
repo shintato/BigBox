@@ -1,1 +1,7 @@
+git add .
 git remote add origin github link
+git commit -m "Commit message: approximately 140 characters or less"
+git push
+git push --set-upstream origin master
+git status
+
